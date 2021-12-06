@@ -5,9 +5,10 @@ using UnityEngine;
 public class Batiment : ScriptableObject
 {
     private Membre[] Surfaces;
-    private Vector3 [] Vertices;
     private int[] Triangles;
     private Vector2 [] TexCoord;
+    string Id;
+
     public Mesh Msh { get; private set; }
 
 

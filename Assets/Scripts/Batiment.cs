@@ -22,15 +22,16 @@ public class Batiment : ScriptableObject
         //TO DO
     }
 
+
     //Triangule les coordonnées en utilisant le ear cutting
     public void Triangulate()
-    { 
+    {
         //TO DO
     }
 
-    
 
-    
+
+
 
 
 
